@@ -1,0 +1,13 @@
+## Команды GIT
+
+git commit
+
+git init
+
+git log
+
+git diff
+
+git checkout
+
+git branch
